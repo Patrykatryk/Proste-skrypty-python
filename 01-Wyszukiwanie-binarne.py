@@ -18,18 +18,3 @@ your_list= [1,2,3,4,5]
 
 print(binary_search(my_list,3))
 print(binary_search(your_list,3))
-
-
-
-
-
-
-
-###################################### POWTÓRKA #############################################
-
-
-
-
-
-def binarane(list,item):
-    len=len(list)
